@@ -1,0 +1,3 @@
+# she-leads
+one of my level one project @SQI college of ICT....
+made up of HTML, CSS, BOOTSTRAP and Basic JAVASCRIPT
